@@ -1,4 +1,4 @@
-## Central Limit Theorem Simulation
+### Central Limit Theorem Simulation
 
 This project presents a simulation study to illustrate the **Central Limit Theorem (CLT)** using height data from the [Weight-Height.csv dataset](https://www.kaggle.com/datasets/mustafaali96/weight-height).
 
@@ -24,9 +24,10 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
   \frac{Y - n\mu}{\sigma \sqrt{n}} \to N(0, 1) \quad \text{as} \quad n \to \infty
   \]
 
----
 
 [Analysis](https://github.com/DiAg-2025/Python--Central-Limit-Theorem/blob/main/JupyterAnalysis.ipynb)
+
+---
 
 ## Population Statistics:
 
