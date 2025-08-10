@@ -10,19 +10,9 @@ This project presents a simulation study to illustrate the **Central Limit Theor
 
 > For a population with any distribution having finite mean (μ) and finite standard deviation (σ), the distribution of sample means (or standardized sums) will **approximately be normal** as the sample size increases.
 
-Mathematically:
-
-Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X) = \sigma^2 \):
-
-- **Case I:**  
-  \[
-  \frac{\bar{X} - \mu}{\sigma / \sqrt{n}} \to N(0, 1) \quad \text{as} \quad n \to \infty
-  \]
-
-- **Case II:** If \( Y = \sum_{i=1}^n X_i \), then:  
-  \[
-  \frac{Y - n\mu}{\sigma \sqrt{n}} \to N(0, 1) \quad \text{as} \quad n \to \infty
-  \]
+<p align="center">
+  <img src="images/clt.png" width="400" />
+</p>
 
 
 [Analysis](https://github.com/DiAg-2025/Python--Central-Limit-Theorem/blob/main/JupyterAnalysis.ipynb)
