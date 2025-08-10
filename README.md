@@ -39,7 +39,7 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 **Population Histogram**  
 <p align="center">
-  <img src="images/population_hist.png" width="500" />
+  <img src="images/population_hist.png" width="300" />
 </p>
 
 ---
