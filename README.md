@@ -39,7 +39,7 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 **Population Histogram**  
 <p align="center">
-  <img src="images/population_hist.png" width="300" />
+  <img src="images/population_hist.png" width="400" />
 </p>
 
 ---
@@ -56,13 +56,13 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 **Histograms**  
 <p align="center">
-  <img src="images/case1_n5.png" width="200" />
-  <img src="images/case1_n10.png" width="200" />
-  <img src="images/case1_n30.png" width="200" />
+  <img src="images/case1_n5.png" width="400" />
+  <img src="images/case1_n10.png" width="400" />
+  <img src="images/case1_n30.png" width="400" />
 </p>
 <p align="center">
-  <img src="images/case1_n50.png" width="200" />
-  <img src="images/case1_n100.png" width="200" />
+  <img src="images/case1_n50.png" width="400" />
+  <img src="images/case1_n100.png" width="400" />
 </p>
 
 ---
@@ -79,13 +79,13 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 **Histograms**  
 <p align="center">
-  <img src="images/case2_n5.png" width="200" />
-  <img src="images/case2_n10.png" width="200" />
-  <img src="images/case2_n30.png" width="200" />
+  <img src="images/case2_n5.png" width="400" />
+  <img src="images/case2_n10.png" width="400" />
+  <img src="images/case2_n30.png" width="400" />
 </p>
 <p align="center">
-  <img src="images/case2_n50.png" width="200" />
-  <img src="images/case2_n100.png" width="200" />
+  <img src="images/case2_n50.png" width="400" />
+  <img src="images/case2_n100.png" width="400" />
 </p>
 
 ---
