@@ -54,6 +54,9 @@ then:
 | 50  | 66.336               | 0.543              | 0.544                   | Strong CLT evidence; symmetric |
 | 100 | 66.394               | 0.363              | 0.385                   | CLT fully realized; mean ≈ true mean |
 
+- **For higher N, the Sample mean is Nearest to the Population mean**
+- **In support of the Weak Law of Large Numbers, the SD of the sample mean keeps on decreasing as the sample size increases**
+
 **Histograms**  
 <p align="center">
   <img src="images/case1_n5.png" width="400" />
@@ -76,6 +79,8 @@ then:
 | 30  | 20.457            | 21.071                  | Near normal |
 | 50  | 23.250            | 27.202                  | Symmetric, nearly normal |
 | 100 | 35.830            | 38.470                  | Close to normal |
+
+- **The SD of sample sums keeps on increasing as the sample size increases**
 
 **Histograms**  
 <p align="center">
