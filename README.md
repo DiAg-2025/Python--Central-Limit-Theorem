@@ -1,18 +1,12 @@
-## Central Limit Theorem
-
-[Dataset](https://github.com/DiAg-2025/Python--Central-Limit-Theorem/blob/main/weight-height.csv)
-
-![Python](https://img.shields.io/badge/Py_libraries-pandas,_matplotlib,_numpy,_seaborn-skyblue)
-
-[Analysis](https://github.com/DiAg-2025/Python--Central-Limit-Theorem/blob/main/JupyterAnalysis.ipynb)
-
-# 📊 Extra Activity 5 – Central Limit Theorem Simulation
+## Central Limit Theorem Simulation
 
 This project presents a simulation study to illustrate the **Central Limit Theorem (CLT)** using height data from the [Weight-Height.csv dataset](https://www.kaggle.com/datasets/mustafaali96/weight-height).
 
+![Python](https://img.shields.io/badge/Py_libraries-pandas,_matplotlib,_numpy,_seaborn-skyblue)
+
 ---
 
-## 📚 What is the Central Limit Theorem?
+## What is the Central Limit Theorem?
 
 > For a population with any distribution having finite mean (μ) and finite standard deviation (σ), the distribution of sample means (or standardized sums) will **approximately be normal** as the sample size increases.
 
@@ -32,7 +26,9 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 ---
 
-## 📊 Population Statistics
+[Analysis](https://github.com/DiAg-2025/Python--Central-Limit-Theorem/blob/main/JupyterAnalysis.ipynb)
+
+## Population Statistics:
 
 - **Population Mean:** 66.367  
 - **Population Std Dev:** 3.847  
@@ -44,7 +40,7 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 ---
 
-## 🔍 Case I – CLT for Sample Means
+## Case I – CLT for Sample Means
 
 | N   | Mean of Sample Means | SD of Sample Means | Theoretical SD (σ / √n) | CLT Observation |
 |-----|----------------------|--------------------|-------------------------|-----------------|
@@ -67,7 +63,7 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 ---
 
-## 🔍 Case II – CLT for Sum of Sample Values
+## Case II – CLT for Sum of Sample Values
 
 | N   | SD of Sample Sums | Theoretical SD (σ × √n) | CLT Observation |
 |-----|-------------------|-------------------------|-----------------|
@@ -90,7 +86,7 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 ---
 
-## 📌 Final Conclusions
+## Final Conclusions:
 
 ### Case I – Sample Means
 - **N = 5:** Poor alignment; irregular shape  
@@ -108,11 +104,10 @@ Let \( X_1, X_2, ..., X_n \) ~ i.i.d. \( X \) with \( E(X) = \mu \) and \( Var(X
 
 ---
 
-## 📈 Key Takeaways
+## Key Takeaways:
 - Larger sample sizes → sampling distributions closer to normal.
 - **Sample means:** Standard deviation decreases with larger N (**Weak Law of Large Numbers**).
 - **Sample sums:** Standard deviation increases with N, but distribution shape normalizes.
 
 ---
 
-> **Note:** Store all plot images in an `images/` folder at the root of your repo so they display correctly on GitHub.
